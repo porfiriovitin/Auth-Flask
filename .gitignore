@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+mysql-data/
 
 # C extensions
 *.so
